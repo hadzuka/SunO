@@ -1,1 +1,4 @@
-Radi li ovo..?
+if something:
+  do this
+else:
+  pass
