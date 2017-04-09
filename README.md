@@ -1,1 +1,2 @@
 # SunO
+reko' kako je..?
