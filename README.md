@@ -1,2 +1,0 @@
-# SunO
-reko' kako je..?
